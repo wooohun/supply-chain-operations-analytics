@@ -1,0 +1,13 @@
+Shipping_Mode_Key,Shipping Mode,Delivery Status
+e37562d8db525491802c26c748b9aa9c,Standard Class,Advance shipping
+1206bf1f2853047e080eea5b1e2e3013,Standard Class,Late delivery
+93809a49d1ee205e24449837b72d8caf,Standard Class,Shipping on time
+3b67c90ab4e216c2cb9b13a46de07012,Standard Class,Shipping canceled
+1b6377d639a22d5edb735bc742472945,First Class,Late delivery
+00793535fcdf7c3b209bee65f7f2dbe3,Second Class,Late delivery
+b03ad8d364620d96a8b6d6ee59cee76b,Second Class,Shipping canceled
+1ee99b0c1e7b80707a6ed41557677c10,Same Day,Shipping on time
+691932d019292c744d0177980c35c715,Same Day,Late delivery
+986b6d730519ae53c22a792010a41ca8,Same Day,Shipping canceled
+2b03358cd70154754e63986ef020a40d,Second Class,Shipping on time
+c858c334cec2e88a77c9d9eded61a349,First Class,Shipping canceled
